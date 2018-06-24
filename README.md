@@ -16,8 +16,11 @@
 ### 시연 영상
 [YouTube 보기](https://www.youtube.com/watch?v=HakVrDmy2ck)
 
-
+#### 게임하기
 ![default](https://user-images.githubusercontent.com/17943275/41822627-b1edb25a-782d-11e8-88ef-e362bc7d2336.gif)
 
-
+#### 랭킹
 ![default](https://user-images.githubusercontent.com/17943275/41822629-bc06224a-782d-11e8-80b1-f8d21f64a2f0.gif)
+
+#### 
+![default](https://user-images.githubusercontent.com/17943275/41822666-3c4cc576-782e-11e8-9c12-73c8ac9604d5.gif)
