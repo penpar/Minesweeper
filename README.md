@@ -19,8 +19,10 @@
 #### 게임하기
 ![default](https://user-images.githubusercontent.com/17943275/41822627-b1edb25a-782d-11e8-88ef-e362bc7d2336.gif)
 
+
 #### 랭킹
 ![default](https://user-images.githubusercontent.com/17943275/41822629-bc06224a-782d-11e8-80b1-f8d21f64a2f0.gif)
 
-#### 
+
+#### 프로필
 ![default](https://user-images.githubusercontent.com/17943275/41822695-c013a532-782e-11e8-9420-9b79b6cbe9b1.gif)
