@@ -13,5 +13,7 @@
 • 개발 환경 : Eclips, Oracle, Apache Tomcat v8.0 <br/>
 
 
-### Ajax, JSON 코드분석 시연 영상
+### 시연 영상
 [YouTube 보기](https://www.youtube.com/watch?v=HakVrDmy2ck)
+
+
