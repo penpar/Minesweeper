@@ -2,8 +2,7 @@
 
 ### 프로젝트 기획
 
-[Minesweeper_기획안.pdf](https://github.com/penpar/Minesweeper/files/2129061/Minesweeper_.pdf)
-
+[Minesweeper_기획안.pdf](https://github.com/penpar/Minesweeper/files/2138340/Minesweeper.pdf)
 
 ### 주요 기술
 • 참여도: 30% <br/> 
@@ -16,7 +15,7 @@
 ### 시연 영상
 [YouTube 보기](https://www.youtube.com/watch?v=HakVrDmy2ck)
 
-#### 게임하기
+#### 게임 화면
 ![default](https://user-images.githubusercontent.com/17943275/41822627-b1edb25a-782d-11e8-88ef-e362bc7d2336.gif)
 
 
