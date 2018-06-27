@@ -223,21 +223,8 @@ public class Mine {
         game.printMineData();
         System.out.println();
         
-      /*  
-        // 4,4 를 클릭한다고 가정한다.
-        int x = 4, y = 4 ;
-        // 클릭한 곳에 주위 0값을 찾아낸다.
-        game.zeroSearch(x, y);
-        System.out.println("fianl size : "+ game.list.size());    */
-        
-       /* for(int i = 0 ; i<16;i++) {
-           for(int j=0; j<30; j++) {
-           
-               System.out.print(game.array[i][j]);
-           }
-           System.out.println();
-        }*/
-       
+  
+      
     }
 
 }
