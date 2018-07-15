@@ -103,6 +103,9 @@ public List<String> zeroSearch(int i , int j, String level) { // 파라미터는
     }
 ```
 
+![default](https://user-images.githubusercontent.com/17943275/42739059-7d72517c-88ca-11e8-8be7-84a80dc4df26.png)
+
+
 ### 시연 영상
 [YouTube 보기](https://www.youtube.com/watch?v=HakVrDmy2ck)
 
