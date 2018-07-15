@@ -12,6 +12,11 @@
 • 개발 환경 : Eclips, Oracle, Apache Tomcat v8.0 <br/>
 
 
+### DB 구조
+![db](https://user-images.githubusercontent.com/17943275/42738267-f483fde2-88bb-11e8-8a86-a9f322ecc74e.png)
+
+
+
 ### 시연 영상
 [YouTube 보기](https://www.youtube.com/watch?v=HakVrDmy2ck)
 
