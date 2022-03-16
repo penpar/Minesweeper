@@ -109,12 +109,3 @@ public List<String> zeroSearch(int i , int j, String level) { // 파라미터는
 ### 시연 영상
 [YouTube 보기](https://www.youtube.com/watch?v=HakVrDmy2ck)
 
-#### 게임 화면
-![_final1](https://user-images.githubusercontent.com/17943275/42421099-a68c1f0e-82bf-11e8-83e1-6d7133fc98c4.gif)
-
-#### 랭킹
-![default](https://user-images.githubusercontent.com/17943275/41822629-bc06224a-782d-11e8-80b1-f8d21f64a2f0.gif)
-
-
-#### 프로필
-![default](https://user-images.githubusercontent.com/17943275/41822695-c013a532-782e-11e8-9420-9b79b6cbe9b1.gif)
